@@ -1,0 +1,7 @@
+::-webkit-scrollbar{
+    display: none;
+}
+
+.progress-bar{
+    transform-origin: 50%;
+}
