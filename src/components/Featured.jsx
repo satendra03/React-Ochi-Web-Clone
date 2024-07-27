@@ -36,7 +36,7 @@ function Featured() {
             name="WebDesign"
             pos="right"
             url="portfolio.webp"
-            site="https://github.com/satendra03/Web-Dev/tree/main/PortfolioIdea-Basic"
+            site="https://satendra03.github.io/Web-Dev/PortfolioIdea-Basic"
           />
         </div>
         <div className="allprojects w-full px-20 flex items-center justify-center p-10 border-b flex-col border-zinc-700">
